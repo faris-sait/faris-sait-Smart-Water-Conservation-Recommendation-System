@@ -1,0 +1,21 @@
+UserID,Activity,WaterUsage_Liters,HouseholdSize,OutdoorUsage_Percent,ApplianceEfficiency,UsageCategory,Date
+1,Showering,60.5,3,20,Medium,Low,2025-01-01
+2,Washing Clothes,85.0,4,10,High,Medium,2025-01-02
+3,Gardening,130.0,5,40,Low,High,2025-01-03
+4,Showering,45.0,2,15,High,Low,2025-01-04
+5,Other,70.0,3,25,Medium,Medium,2025-01-05
+6,Washing Clothes,90.0,6,5,Low,High,2025-01-06
+7,Gardening,110.0,4,35,Medium,High,2025-01-07
+8,Showering,55.0,2,10,High,Low,2025-01-08
+9,Other,65.0,3,20,Medium,Medium,2025-01-09
+10,Washing Clothes,80.0,5,15,Low,Medium,2025-01-10
+11,Gardening,140.0,6,50,Low,High,2025-01-11
+12,Showering,50.0,1,5,High,Low,2025-01-12
+13,Other,75.0,4,30,Medium,Medium,2025-01-13
+14,Washing Clothes,95.0,5,10,Low,High,2025-01-14
+15,Gardening,120.0,3,45,Medium,High,2025-01-15
+16,Showering,62.0,2,15,High,Low,2025-01-16
+17,Other,68.0,3,25,Medium,Medium,2025-01-17
+18,Washing Clothes,88.0,4,10,Low,Medium,2025-01-18
+19,Gardening,135.0,5,40,Low,High,2025-01-19
+20,Showering,48.0,2,10,High,Low,2025-01-20
